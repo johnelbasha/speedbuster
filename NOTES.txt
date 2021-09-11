@@ -1,0 +1,16 @@
+objectives:
+1- create a simple CRUD application using Sinatra framework instead of Rails.
+2- compare and contrast the expierience of building the application in these two framworks
+3- discuss what are the advantages and disadvantages of the each framwork for this context
+4- Host it on a server (e.g. Render)
+5- Write a blog post about what I learnt.
+
+
+Notes:
+1- don't worry about testing for the time-being
+
+
+Resources I used that helped me:
+1- Sinatra:
+  1-1: https://github.com/sinatra/sinatra
+  
