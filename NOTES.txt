@@ -10,7 +10,17 @@ Notes:
 1- don't worry about testing for the time-being
 
 
+Questions:
+1- what testing framworks are available for use with Sinatra?
+2- In Ruby on Rails, I'm used to seing a file called Gemfile that contains a list of all the gems that should be installed using bundler. How do you install gems with Sinatra?
+3- I keep seing reference to DSL. They use the term in the GH page to describe Sinatra. What does DSL mean?
+4- How does Stimulus work without Rails? (Kitt)
+5- What are the dependecies that Sinatra needs? (e.g. Puma?)
+
+
+
+
 Resources I used that helped me:
 1- Sinatra:
   1-1: https://github.com/sinatra/sinatra
-  
+
