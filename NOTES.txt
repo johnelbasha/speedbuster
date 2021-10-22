@@ -48,6 +48,9 @@ Resources I used that helped me:
   1-1: https://github.com/sinatra/sinatra
   1-2: http://sinatra-org-book.herokuapp.com/download
   1-3: https://medium.com/@smart_morning_star/building-a-sinatra-crud-app-in-ruby-36743991d10f
+2- Git:
+  2-1: Git ignore: https://ralphjsmit.com/apply-gitignore-to-exisiting-repository/
+  
 
 
 
