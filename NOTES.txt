@@ -33,6 +33,15 @@ Questions:
 7- What does bundle init do?
 
 
+To do:
+1- Add git ignore and ignore the NOTES.txt file
+2- Design basic user-flow in Whimsical
+3- Design basic site pages in Figma
+4- Build MVP locally
+5- Deploy MVP to heroku / render.
+
+
+
 
 Resources I used that helped me:
 1- Sinatra:
