@@ -52,11 +52,11 @@ class ReportRepository
   end
 end
 
-class ReportView
-  def display(reports)
-    reports.each_with_index do |r, i|
-      submitted = r.has_been_submitted? "[X]" : "[ ]"
-      puts "#{submmitted} #{i} - #{r.title}"
-    end
-  end
-end
+# class ReportView
+#   def display(reports)
+#     reports.each_with_index do |r, i|
+#       submitted = r.has_been_submitted? "[X]" : "[ ]"
+#       puts "#{submmitted} #{i} - #{r.title}"
+#     end
+#   end
+# end
